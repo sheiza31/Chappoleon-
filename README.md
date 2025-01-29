@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sheiza Fakhru Rasyid</h1>
-<h3 align="center">A passionate Backend developer from Indonesian</h3>
+<h1 align="center"><b>Hi , I'm Sheiza Fakhru Rasyid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+..&hearts;++;Self-taught+Back-End+Developer,;Informatics+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheiza31" alt="sheiza31" /></a> </p>
 
